@@ -1,0 +1,26 @@
+
+.page-link {
+    border: none !important;
+    margin: 10px;
+    background-color: #f5f7ff;
+    cursor: pointer;
+}
+
+.page-item.disabled .page-link {
+    color: #6c757d !important;
+}
+
+.page-link {
+    background-color: #f5f7ff !important;
+}
+
+.page-item:hover .page-link:hover {
+    color: '#6c757d';
+    border-radius: 6px;
+}
+
+.page-link-active {
+    background-color: #0969da !important;
+    color: #fff !important;
+    border-radius: 6px;
+}

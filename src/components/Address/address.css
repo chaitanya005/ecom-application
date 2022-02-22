@@ -1,0 +1,27 @@
+.addressCard:hover {
+  border: solid 2px blue;
+  cursor: pointer;
+}
+.main-panel {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+#newAddress {
+  width: fit-content;
+  margin-left: 80%;
+}
+.addressCol {
+  margin-bottom: 5%;
+}
+.addressCard {
+  width: 200px;
+  align-content: center;
+  align-items: center;
+}
+.bolderText {
+  font-weight: bolder;
+}
+#checkOut {
+  width: fit-content;
+  margin-left: 80%;
+}
